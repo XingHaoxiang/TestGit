@@ -1,4 +1,6 @@
-this is a test ¡£ 
+this is a test Â¡Â£ 
 
 this is a new test.
+
+this is new line by xinghx.
 this is new line.
